@@ -1,1 +1,1 @@
-Make sure to publish after committing. 
+Add a new line.
